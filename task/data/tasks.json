@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Comprar comida",
+        "category": "Hogar",
+        "completed": false
+    },
+    {
+        "text": "Pasear al perro",
+        "category": "Personal",
+        "completed": true
+    },
+    {
+        "text": "Estudiar para el examen",
+        "category": "Estudios",
+        "completed": false
+    },
+    {
+        "text": "Limpiar la habitación",
+        "category": "Hogar",
+        "completed": false
+    },
+    {
+        "text": "Jugar a videojuegos",
+        "category": "Ocio",
+        "completed": true
+    },
+    {
+        "text": "Hacer los deberes",
+        "category": "Estudios",
+        "completed": false
+    },
+    {
+        "text": "Ver una película",
+        "category": "Ocio",
+        "completed": false
+    }
+]

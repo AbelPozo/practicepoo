@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Laura García",
+        "position": "Desarrolladora Web",
+        "department": "Desarrollo",
+        "availability": true
+    },
+    {
+        "name": "Carlos Martín",
+        "position": "Diseñador Gráfico",
+        "department": "Diseño",
+        "availability": false
+    },
+    {
+        "name": "Marta López",
+        "position": "Programadora",
+        "department": "Desarrollo",
+        "availability": true
+    },
+    {
+        "name": "Daniel Sánchez",
+        "position": "Diseñador UX/UI",
+        "department": "Diseño",
+        "availability": true
+    },
+    {
+        "name": "Elena Torres",
+        "position": "Responsable de Marketing",
+        "department": "Marketing",
+        "availability": false
+    },
+    {
+        "name": "Pablo Ruiz",
+        "position": "Técnico de Sistemas",
+        "department": "Informática",
+        "availability": true
+    }
+]
